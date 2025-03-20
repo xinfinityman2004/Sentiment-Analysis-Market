@@ -6,8 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![NLP](https://img.shields.io/badge/NLP-NLTK%2C%20SpaCy-green) ![License](https://img.shields.io/badge/License-MIT-orange)  
 
-This project leverages **Natural Language Processing (NLP)** and **Sentiment Analysis** to analyze customer reviews of video games, providing actionable insights for marketing strategies. Inspired by a [Manning LiveProject](https://www.manning.com/liveproject/sentiment-analysis-and-natural-language-processing-for-marketing), this implementation includes advanced techniques and improvements to deliver deeper insights into customer preferences.
-
+This project leverages Natural Language Processing (NLP) and Sentiment Analysis to analyze customer reviews of video games, transforming raw text data into actionable insights for marketing strategies. By employing advanced techniques such as dictionary-based sentiment scoring and deep learning models like DistilBERT, the project uncovers key patterns in customer feedback, enabling businesses to identify what gamers love and dislike about their products. The implementation includes robust data preprocessing, model evaluation, and interactive visualizations, ensuring a comprehensive understanding of customer sentiment. These insights empower marketing teams to craft targeted campaigns, improve product features, and enhance overall customer satisfaction.
 ---
 
 ## 🎯 **Project Goals**  
